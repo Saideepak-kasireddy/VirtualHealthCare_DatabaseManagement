@@ -53,7 +53,7 @@ These visualizations empower healthcare administrators and staff to make **data-
 - SQL  
 - SQL Server Management Studio (SSMS)  
 - ER/Studio  
-- Tableau  
+- PowerBI  
 
 ---
 
